@@ -20,7 +20,7 @@
 
 .list-group-item {
     cursor: pointer;
-    margin-top: 10px;
+    margin-bottom: 10px !important;
 }
 
 .list-group-item:hover {
