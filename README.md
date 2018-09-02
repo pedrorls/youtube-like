@@ -1,6 +1,6 @@
-# ReduxSimpleStarter
+# Youtube-Alike
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Really simple youtube clone using React and Redux
 
 ### Getting Started
 
@@ -10,8 +10,8 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/pedrorls/youtube-like.git
+> cd youtube-like
 > npm install
 > npm start
 ```
